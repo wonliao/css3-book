@@ -5,7 +5,7 @@ css3-book
 
 youtube 影片
 
-[![youtube 影片](http://img.youtube.com/vi/ADUKr3gwH1M/0.jpg)](http://www.youtube.com/watch?v=ADUKr3gwH1M)
+[![youtube 影片](http://img.youtube.com/vi/aAB4v0oo280/0.jpg)](http://www.youtube.com/watch?v=aAB4v0oo280)
 
 說明
 
